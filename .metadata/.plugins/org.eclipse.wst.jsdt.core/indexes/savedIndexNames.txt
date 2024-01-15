@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+D:\miran\_spring_workspace2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+975577938.index
+2862093688.index
+492531355.index
+2199867949.index
+62909763.index
+1468399361.index
+492531355.index
+1899640027.index
+2432674592.index
+2887864166.index

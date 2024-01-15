@@ -1,0 +1,7 @@
+package com.myweb.www.config;
+
+//AbstractSecurityWebApplicationInitializer
+
+public class SecurityInitalizer extends AbstractSecurityWebApplicationInitializer {
+
+}
